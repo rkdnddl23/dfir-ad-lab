@@ -1,0 +1,1 @@
+Multi-host Active Directory intrusion in an isolated lab — reproduced lateral movement and data exfiltration with Atomic Red Team, proving financial-data theft via correlated Sysmon, Windows Event Log, and network (pcap) evidence.

@@ -1,0 +1,1 @@
+Single-host memory forensics of a Meterpreter infection — recovered process injection (explorer.exe) and Run-key persistence from a memory image using Volatility 3.
